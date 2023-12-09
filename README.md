@@ -88,5 +88,10 @@ Test the API by visiting http://127.0.0.1:8000/api/public/. Verify proper functi
 
 ## Screenshots
 
+### Adding data through the admin pannel
+
 ![Screenshot 1: Adding data through the admin pannel](kodala.png)
+
+### Testing the API endpoint
+
 ![Screenshot 2: Testing the API endpoint](kodala2.png)
